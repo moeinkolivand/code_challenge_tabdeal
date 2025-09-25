@@ -1,7 +1,7 @@
 venv/
 
 
-
+static/
 ### Django ###
 *.log
 *.pot
